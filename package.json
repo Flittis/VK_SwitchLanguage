@@ -1,0 +1,22 @@
+{
+  "name": "vk_switchlanguage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flittis/VK_SwitchLanguage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flittis/VK_SwitchLanguage/issues"
+  },
+  "homepage": "https://github.com/Flittis/VK_SwitchLanguage#readme",
+  "dependencies": {
+    "VK-Promise": "^0.3.2"
+  }
+}
